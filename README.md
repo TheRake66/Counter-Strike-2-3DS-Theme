@@ -24,20 +24,20 @@
 
 ### Music kits available
 
- ![Cover](./music_kits/theme_infos/icon_large_under_bright_lights.png)
- ![Cover](./music_kits/theme_infos/icon_large_the_8-bit_kit.png)
- ![Cover](./music_kits/theme_infos/icon_large_inhuman.png)
- ![Cover](./music_kits/theme_infos/icon_large_flashbang_dance.png)
- ![Cover](./music_kits/theme_infos/icon_large_ez4ence.png)
- ![Cover](./music_kits/theme_infos/icon_large_all_night.png)
+ ![Cover](./for_git/under_bright_lights.png)
+ ![Cover](./for_git/the_8-bit_kit.png)
+ ![Cover](./for_git/inhuman.png)
+ ![Cover](./for_git/flashbang_dance.png)
+ ![Cover](./for_git/ez4ence.png)
+ ![Cover](./for_git/all_night.png)
 
 ## How to download (on GitHub)?
 
  Go on ![Release](https://github.com/TheRake66/Counter-Strike-2-3DS-Theme/releases) page.
 
- Download main theme (Counter-Strike 2.zip).
+ Download main theme (*Counter-Strike 2.zip*).
 
- Download music kit you want (ex. Music Kit, The Verkkars, EZ4ENCE.zip).
+ Download music kit you want (ex. *Music Kit, The Verkkars, EZ4ENCE.zip*).
 
 ## How to download (on Theme Plaza)?
 
