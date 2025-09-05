@@ -24,12 +24,12 @@
 
 ### Music kits available
 
- ![Cover](./music_kits/album_cover/under_bright_lights.png)
- ![Cover](./music_kits/album_cover/the_8-bit_kit.png)
- ![Cover](./music_kits/album_cover/inhuman.png)
- ![Cover](./music_kits/album_cover/flashbang_dance.png)
- ![Cover](./music_kits/album_cover/ez4ence.png)
- ![Cover](./music_kits/album_cover/all_night.png)
+ ![Cover](./music_kits/theme_infos/icon_large_under_bright_lights.png)
+ ![Cover](./music_kits/theme_infos/icon_large_the_8-bit_kit.png)
+ ![Cover](./music_kits/theme_infos/icon_large_inhuman.png)
+ ![Cover](./music_kits/theme_infos/icon_large_flashbang_dance.png)
+ ![Cover](./music_kits/theme_infos/icon_large_ez4ence.png)
+ ![Cover](./music_kits/theme_infos/icon_large_all_night.png)
 
 ## How to download (on GitHub)?
 
