@@ -18,9 +18,18 @@
 
  Custom theme for Anemone3DS inspired by Counter-Strike 2. 
 
-## Preview screenshots
+### Main preview
 
  ![Preview](./for_git/preview.png)
+
+### Music kits available
+
+ ![Cover](./music_kits/album_cover/under_bright_lights.png)
+ ![Cover](./music_kits/album_cover/the_8-bit_kit.png)
+ ![Cover](./music_kits/album_cover/inhuman.png)
+ ![Cover](./music_kits/album_cover/flashbang_dance.png)
+ ![Cover](./music_kits/album_cover/ez4ence.png)
+ ![Cover](./music_kits/album_cover/all_night.png)
 
 ## How to download (on GitHub)?
 
