@@ -6,6 +6,7 @@
     <a href="https://themeplaza.art/profile/TheRake66" target="_blank">
         <b>• View on Theme Plaza •</b>
     </a>
+    <br>
     <a href="https://github.com/TheRake66/Counter-Strike-2-3DS-Theme/tree/main/deployed_packs" target="_blank">
         <b>• Download here •</b>
     </a>
@@ -46,7 +47,7 @@
 
  Go on ![my profile](https://themeplaza.art/profile/TheRake66) page.
 
- Scan QR code on Theme Plaza with Anemone3DS homebrew.
+ Scan QR code with Anemone3DS homebrew.
 
 ## How to use?
 
