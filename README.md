@@ -38,17 +38,17 @@
 
 ## How to download (on GitHub)?
 
- Go on ![deployed_packs](https://github.com/TheRake66/Counter-Strike-2-3DS-Theme/tree/main/deployed_packs) page.
+ Go on [deployed_packs](https://github.com/TheRake66/Counter-Strike-2-3DS-Theme/tree/main/deployed_packs) page.
 
- Download main theme (![Counter-Strike 2.zip](https://github.com/TheRake66/Counter-Strike-2-3DS-Theme/raw/refs/heads/main/deployed_packs/Counter-Strike%202.zip)).
+ Download main theme ([Counter-Strike 2.zip](https://github.com/TheRake66/Counter-Strike-2-3DS-Theme/raw/refs/heads/main/deployed_packs/Counter-Strike%202.zip)).
 
- Download music kit you want (ex. ![Music Kit, The Verkkars, EZ4ENCE.zip](https://github.com/TheRake66/Counter-Strike-2-3DS-Theme/raw/refs/heads/main/deployed_packs/Music%20Kit,%20The%20Verkkars,%20EZ4ENCE.zip)).
+ Download music kit you want (ex. [Music Kit, The Verkkars, EZ4ENCE.zip](https://github.com/TheRake66/Counter-Strike-2-3DS-Theme/raw/refs/heads/main/deployed_packs/Music%20Kit,%20The%20Verkkars,%20EZ4ENCE.zip)).
 
  Transfer files to your 3DS sdcard in `/themes` folder (you can use FTPD).
 
 ## How to download (on Theme Plaza)?
 
- Go on ![my profile](https://themeplaza.art/profile/TheRake66) page.
+ Go on [my profile](https://themeplaza.art/profile/TheRake66) page.
 
  Scan QR code with Anemone3DS homebrew.
 
