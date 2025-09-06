@@ -1,6 +1,6 @@
 <div align="center">
     <br>
-    <img src="./for_git/logo.png" alt="Counter-Strike-2 (3DS Theme)" width=250>
+    <img src="./for_git/logo.png" alt="Counter-Strike-2 (3DS Theme)" width=350>
     <br>
     <br>
     <a href="https://themeplaza.art/profile/TheRake66" target="_blank">
