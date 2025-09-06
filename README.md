@@ -3,7 +3,7 @@
     <img src="./for_git/logo.png" alt="Counter-Strike-2 (3DS Theme)" width=250>
     <br>
     <br>
-    <a href="https://themeplaza.art" target="_blank">
+    <a href="https://themeplaza.art/profile/TheRake66" target="_blank">
         <b>• View on Theme Plaza •</b>
     </a>
     <br>
@@ -33,7 +33,7 @@
 
 ## How to download (on GitHub)?
 
- Go on ![Release](https://github.com/TheRake66/Counter-Strike-2-3DS-Theme/releases) page.
+ Go on ![deployed_packs](https://github.com/TheRake66/Counter-Strike-2-3DS-Theme/tree/main/deployed_packs) page.
 
  Download main theme (*Counter-Strike 2.zip*).
 
