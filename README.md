@@ -44,6 +44,8 @@
 
  Download music kit you want (ex. *Music Kit, The Verkkars, EZ4ENCE.zip*).
 
+ Transfer files to your 3DS sdcard (you can use FTPD).
+
 ## How to download (on Theme Plaza)?
 
  Go on ![my profile](https://themeplaza.art/profile/TheRake66) page.
