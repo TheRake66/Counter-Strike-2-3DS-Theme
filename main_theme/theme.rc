@@ -87,7 +87,7 @@ shorttitle=Counter-Strike 2
 smallicon=theme_icons/icon_small.png
 
 [kame-editor]
-deploy=deployed.zip
+deploy=../deployed_packs/Counter-Strike 2.zip
 
 [textures]
 bottom.image=texture_assets/screen_bottom.png
