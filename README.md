@@ -30,26 +30,11 @@
  Scan the next music kit QR code you want with Anemone3DS:
 
  [Music Kit, Daniel Sadowski, The 8-Bit Kit](./for_git/the_8-bit_kit_qrcode.png)
-
- **Music Kit, ISOxo, inhuman**
-
- ![QR code](./for_git/inhuman_qrcode.png)
-
- **Music Kit, KILL SCRIPT, All Night**
-
- ![QR code](./for_git/all_night_qrcode.png)
-
- **Music Kit, TWERL and Ekko & Sidetrack, Under Bright Lights**
-
- ![QR code](./for_git/under_bright_lights_qrcode.png)
-
- **Music Kit, The Verkkars & n0thing, Flashbang Dance**
-
- ![QR code](./for_git/flashbang_dance_qrcode.png)
-
- **Music Kit, The Verkkars, EZ4ENCE**
-
- ![QR code](./for_git/ez4ence_qrcode.png)
+ [Music Kit, ISOxo, inhuman](./for_git/inhuman_qrcode.png)
+ [Music Kit, KILL SCRIPT, All Night](./for_git/all_night_qrcode.png)
+ [Music Kit, TWERL and Ekko & Sidetrack, Under Bright Lights](./for_git/under_bright_lights_qrcode.png)
+ [Music Kit, The Verkkars & n0thing, Flashbang Dance](./for_git/flashbang_dance_qrcode.png)
+ [Music Kit, The Verkkars, EZ4ENCE](./for_git/ez4ence_qrcode.png)
 
 ## How to use?
 
