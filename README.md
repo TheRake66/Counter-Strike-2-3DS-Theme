@@ -1,9 +1,3 @@
-<div align="center">
-    <br>
-    <img src="./for_git/logo.png" alt="Logo" width=350>
-    <br>
-</div>
-
 # Counter-Strike 2 (3DS Theme)
 
  Custom theme for Anemone3DS inspired by Counter-Strike 2. 
