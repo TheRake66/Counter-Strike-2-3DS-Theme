@@ -2,7 +2,6 @@
     <br>
     <img src="./for_git/logo.png" alt="Logo" width=350>
     <br>
-    <br>
 </div>
 
 # Counter-Strike 2 (3DS Theme)
