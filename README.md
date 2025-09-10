@@ -23,6 +23,12 @@
 
 ## How to download?
 
+ ![QR code](./for_git/main_qrcode.png)
+ ![QR code](./for_git/main_qrcode.png)
+
+ ![QR code](./for_git/main_qrcode.png)
+ ![QR code](./for_git/main_qrcode.png)
+
  Scan the next QR code with Anemone3DS to download main theme:
 
  ![QR code](./for_git/main_qrcode.png)
