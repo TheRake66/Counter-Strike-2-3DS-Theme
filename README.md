@@ -29,9 +29,7 @@
 
  Scan the next music kit QR code you want with Anemone3DS:
 
- **Music Kit, Daniel Sadowski, The 8-Bit Kit**
-
- ![QR code](./for_git/the_8-bit_kit_qrcode.png)
+ [Music Kit, Daniel Sadowski, The 8-Bit Kit](./for_git/the_8-bit_kit_qrcode.png)
 
  **Music Kit, ISOxo, inhuman**
 
