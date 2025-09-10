@@ -23,11 +23,11 @@
 
 ## How to download?
 
-### Scan the next QR code with Anemone3DS to download main theme:
+ Scan the next QR code with Anemone3DS to download main theme:
 
  ![QR code](./for_git/main_qrcode.png)
 
-### Scan the next music kit QR code you want with Anemone3DS:
+ Scan the next music kit QR code you want with Anemone3DS:
 
  **Music Kit, Daniel Sadowski, The 8-Bit Kit**
 
