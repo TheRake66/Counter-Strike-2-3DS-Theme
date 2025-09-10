@@ -1,21 +1,6 @@
 <div align="center">
     <br>
-    <img src="./for_git/logo.png" alt="Counter-Strike-2 (3DS Theme)" width=350>
-    <br>
-    <br>
-    <a href="https://themeplaza.art/profile/TheRake66" target="_blank">
-        <b>• View on Theme Plaza •</b>
-    </a>
-    <br>
-    <br>
-    <a href="https://github.com/TheRake66/Counter-Strike-2-3DS-Theme/tree/main/deployed_packs" target="_blank">
-        <b>• Download here •</b>
-    </a>
-    <br>
-    <br>
-    <img src="https://img.shields.io/badge/License-NonCommercial-red" alt="License: Non-Commercial">
-    <img src="https://img.shields.io/github/stars/TheRake66/Counter-Strike-2-3DS-Theme" alt="GitHub stars">
-    <br>
+    <img src="./for_git/logo.png" alt="Logo" width=350>
     <br>
 </div>
 
@@ -29,28 +14,38 @@
 
 ### Music kits available
 
- ![Cover](./for_git/under_bright_lights.png)
  ![Cover](./for_git/the_8-bit_kit.png)
  ![Cover](./for_git/inhuman.png)
+ ![Cover](./for_git/all_night.png)
+ ![Cover](./for_git/under_bright_lights.png)
  ![Cover](./for_git/flashbang_dance.png)
  ![Cover](./for_git/ez4ence.png)
- ![Cover](./for_git/all_night.png)
 
-## How to download (on GitHub)?
+## How to download?
 
- Go on [deployed_packs](https://github.com/TheRake66/Counter-Strike-2-3DS-Theme/tree/main/deployed_packs) page.
+ Scan the next QR code with Anemone3DS:
 
- Download main theme ([Counter-Strike 2.zip](https://github.com/TheRake66/Counter-Strike-2-3DS-Theme/raw/refs/heads/main/deployed_packs/Counter-Strike%202.zip)).
+ ![QR code](./for_git/main_qrcode.png)
 
- Download music kit you want (ex. [Music Kit, The Verkkars, EZ4ENCE.zip](https://github.com/TheRake66/Counter-Strike-2-3DS-Theme/raw/refs/heads/main/deployed_packs/Music%20Kit,%20The%20Verkkars,%20EZ4ENCE.zip)).
+ Scan the next music kit QR code you want with Anemone3DS:
 
- Transfer files to your 3DS sdcard in `/themes` folder (you can use FTPD).
+ *Music Kit, Daniel Sadowski, The 8-Bit Kit*
+ ![QR code](./for_git/the_8-bit_kit_qrcode.png)
 
-## How to download (on Theme Plaza)?
+ *Music Kit, ISOxo, inhuman*
+ ![QR code](./for_git/inhuman_qrcode.png)
 
- Go on [my profile](https://themeplaza.art/profile/TheRake66) page.
+ *Music Kit, KILL SCRIPT, All Night*
+ ![QR code](./for_git/all_night_qrcode.png)
 
- Scan QR code with Anemone3DS homebrew.
+ *Music Kit, TWERL and Ekko & Sidetrack, Under Bright Lights*
+ ![QR code](./for_git/under_bright_lights_qrcode.png)
+
+ *Music Kit, The Verkkars & n0thing, Flashbang Dance*
+ ![QR code](./for_git/flashbang_dance_qrcode.png)
+
+ *Music Kit, The Verkkars, EZ4ENCE*
+ ![QR code](./for_git/ez4ence_qrcode.png)
 
 ## How to use?
 
